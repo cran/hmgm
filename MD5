@@ -1,0 +1,15 @@
+fe878b23686a60ada2aa9fa150ec8a74 *DESCRIPTION
+b8510542119ca10a887b516f8b0d5212 *NAMESPACE
+1f8e8631d768a0f997534e5b6ec94659 *R/datagen.R
+68a92ef7abcf3949f9807f80bac3ee39 *R/edgenorm.R
+049ff70dd1c3f66ac730452e16cc55d9 *R/fitadj.R
+2aa092c7bbe91966bf40750c6543bb87 *R/hmgm.R
+51be569f4c71698f5be3b2319ba90571 *R/pargen.R
+23dbc07a63851b78a66e757408a97847 *R/pargroup.R
+5f42af31fcd1a930f3d8e7d67f1799f7 *man/datagen.Rd
+a77906c6011b205147a3c3935be14a90 *man/edgenorm.Rd
+fe5f5a8e35aec400ebf4811de7eab27e *man/fitadj.Rd
+713d2ce04d691454dffcf900b4b25ee1 *man/hmgm-package.Rd
+246025bd1be0874cb497bac2e0edf1e2 *man/hmgm.Rd
+b8278b9afbb9cef795050392b5039c0e *man/pargen.Rd
+ab67261fec1998c2949a2958f806d07a *man/pargroup.Rd

@@ -1,0 +1,8 @@
+importFrom("stats", runif)
+importFrom("binaryLogic",as.binary)
+importFrom("Matrix",det)
+importFrom("MASS",mvrnorm)
+importFrom("nat",sub2ind)
+importFrom("glmnet",glmnet)
+export(pargen,datagen,pargroup,hmgm,edgenorm,fitadj)
+
