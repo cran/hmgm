@@ -20,7 +20,7 @@ Version: \tab 0.3.0\cr
 Date: \tab 2019-11-29\cr
 License: \tab GPL (>= 2)\cr
 }
-The major function \code{hmgm} provides weighted group lasso framework for high-dimensional mixed data graph estimation.
+The major function \code{hmgm} provides weighted lasso framework for high-dimensional mixed data graph estimation.
 
 Another function \code{pargroup} identify all regions where groups intersect, make all variables in each overlapping region into a new group.
 }

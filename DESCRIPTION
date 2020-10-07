@@ -1,10 +1,10 @@
 Package: hmgm
 Type: Package
 Title: High-Dimensional Mixed Graphical Models Estimation
-Version: 1.0.2
+Version: 1.0.3
 Author: Mingyu Qi, Tianxi Li
 Maintainer: Mingyu Qi <mq3sq@virginia.edu>
-Description: Provides weighted group lasso framework for high-dimensional mixed data graph estimation.  
+Description: Provides weighted lasso framework for high-dimensional mixed data graph estimation.  
     In the graph estimation stage, the graph structure is estimated by maximizing the conditional 
     likelihood of one variable given the rest. We focus on the conditional loglikelihood of each variable 
     and fit separate regressions to estimate the parameters, much in the spirit of the neighborhood 
@@ -20,6 +20,6 @@ Imports: rgl, Matrix, glmnet, MASS, nat, binaryLogic, Rcpp, stats,
 NeedsCompilation: yes
 Encoding: UTF-8
 RoxygenNote: 7.0.1
-Packaged: 2019-12-10 16:45:59 UTC; mingyuqi
+Packaged: 2020-10-06 22:52:48 UTC; mingyuqi
 Repository: CRAN
-Date/Publication: 2019-12-16 14:30:15 UTC
+Date/Publication: 2020-10-07 04:40:02 UTC
